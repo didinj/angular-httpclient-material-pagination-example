@@ -1,6 +1,6 @@
 # Implement Pagination in Angular with HTTP Client and Angular Material
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68e33f5c42ab8438707aba2b/implement-pagination-in-angular-with-http-client-and-angular-material).
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.6.
 
