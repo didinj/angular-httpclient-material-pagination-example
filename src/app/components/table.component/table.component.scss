@@ -1,0 +1,42 @@
+.table-container {
+  margin: 20px;
+}
+
+.filter-input {
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.loading-spinner {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+table {
+  width: 100%;
+}
+
+.no-data {
+  text-align: center;
+  margin-top: 20px;
+  color: #888;
+}
+
+.full-width-table {
+  width: 100%;
+}
+
+.filter-container {
+  margin-bottom: 1rem;
+}
+
+.table-container {
+  padding: 16px;
+  overflow: auto;
+}
+
+.search-box {
+  width: 300px;
+  margin-bottom: 16px;
+}
